@@ -1,4 +1,4 @@
-# parcel-bootstrap
+# parcel-bootstrap-starter
 Starter setup for Parcel.js with Bootstrap & SASS.
 
 # Getting Started
