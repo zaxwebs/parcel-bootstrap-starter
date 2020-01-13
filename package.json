@@ -1,5 +1,5 @@
 {
-	"name": "parcel-bootstrap",
+	"name": "parcel-bootstrap-starter",
 	"version": "1.0.0",
 	"description": "Starter setup for parcel with Bootstrap",
 	"main": "index.html",
