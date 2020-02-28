@@ -23,9 +23,10 @@ Following structure has been set up:
 /dist                                                 # Built files are exported to /dist
 /src                                                  # Source files
   /styles                                             # Directory for CSS/SCSS files
-    _variables.scss                                   # Define variables here
     _bootstrap.scss                                   # Imports Bootstrap includes
-    _custom.scss                                      # Your custom styles here
+    _custom.scss                                      # Your custom styles here    
+    _fonts.scss                                       # Import fonts here
+    _variables.scss                                   # Define variables here
     main.scss                                         # Imports all above files
   /scripts                                            # Directory for JS scripts
     main.js                                           # Placeholder JS file
